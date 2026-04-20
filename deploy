@@ -91,7 +91,7 @@ Error generating stack: `+l.message+`
 
 [[redirects]]
   from = "/*"
-  to = "/index.html"
+  to = "/index.html "
   status = 200
 
 /**
